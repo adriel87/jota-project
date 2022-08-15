@@ -1,5 +1,10 @@
 # JOTA PROJECT
 
+## tecnologias
+
+- Typescript
+- Nextjs
+- 
 ## Ideas
 - Blog de la pagina con los colaboradores
 - Resolucion de problemas de la comunidad
